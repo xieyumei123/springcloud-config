@@ -1,0 +1,5 @@
+server:
+  port: 3344
+
+config:
+  info: dev version=1
